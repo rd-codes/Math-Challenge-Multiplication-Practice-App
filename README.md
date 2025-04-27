@@ -2,7 +2,11 @@
 
 A fun and interactive web application designed to help users practice their multiplication skills. The app features different difficulty levels, a timer system, and engaging visual feedback to make learning multiplication more enjoyable.
 
-![Math Challenge Screenshot](screenshot.png)
+
+
+https://github.com/user-attachments/assets/c1b33f32-a9d0-4a58-8adf-4165a9f70184
+
+
 
 ## Features
 
