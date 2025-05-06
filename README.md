@@ -53,14 +53,6 @@ https://github.com/user-attachments/assets/c1b33f32-a9d0-4a58-8adf-4165a9f70184
 - Local Storage for score persistence
 - Font Awesome for icons
 
-### Browser Compatibility
-The app works on all modern browsers including:
-- Chrome
-- Firefox
-- Safari
-- Edge
-- Opera
-
 ## Setup and Installation
 
 1. Clone or download this repository
